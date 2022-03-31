@@ -1,1 +1,1 @@
-Sitemap: https://inqubate.github.io/doing_ds_with_julia/sitemap.xml
+Sitemap: https://inqubate.github.io/datasciencewithjulia/sitemap.xml
